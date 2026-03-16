@@ -1,0 +1,40 @@
+/* Global body styling */
+
+body{
+font-family:'Poppins',sans-serif;
+background: linear-gradient(135deg,#667eea,#764ba2);
+min-height:100vh;
+}
+
+/* Center the form vertically */
+
+.page-center{
+min-height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+/* Card styling */
+
+.card{
+border-radius:16px;
+box-shadow:0 15px 35px rgba(0,0,0,0.2);
+}
+
+/* Button animation */
+
+.btn{
+border-radius:8px;
+transition:0.3s;
+}
+
+.btn:hover{
+transform:scale(1.04);
+}
+
+/* Link styling */
+
+a{
+text-decoration:none;
+}
