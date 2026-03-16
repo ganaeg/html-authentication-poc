@@ -1,0 +1,49 @@
+/* Global font and background */
+
+body{
+font-family:'Poppins',sans-serif;
+background: linear-gradient(135deg,#6a11cb,#2575fc);
+min-height:100vh;
+margin:0;
+}
+
+/* Center the login/register cards */
+
+.page-center{
+min-height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+/* Card styling */
+
+.login-card{
+border-radius:16px;
+box-shadow:0 10px 30px rgba(0,0,0,0.2);
+}
+
+/* Navbar title */
+
+.navbar-brand{
+font-weight:600;
+font-size:20px;
+}
+
+/* Button styling */
+
+.btn-primary{
+background-color:#4a6cf7;
+border:none;
+}
+
+.btn-primary:hover{
+background-color:#3b57d1;
+}
+
+/* Links styling */
+
+a{
+text-decoration:none;
+font-weight:500;
+}
