@@ -73,21 +73,11 @@ html-authentication-poc/
 
 ## Screenshots
 
-### Login Page
-![Login](screenshots/login.png)
-
-### Register Page
-![Register](screenshots/register.png)
-
-### Forgot Password Page
-![Forgot Password](screenshots/forgot-password.png)
-
-### Reset Password Page
-![Reset Password](screenshots/reset-password.png)
-
-### Dashboard Page
-![Dashboard](screenshots/dashboard.png)
-
+![Login](login.png)
+![Register](register.png)
+![Forgot Password](forgot-password.png)
+![Reset Password](reset-password.png)
+![Dashboard](dashboard.png)
 
 ## How to Run the Project
 
